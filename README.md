@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nandha-kumar-hajari?tab=repositories](https://github.com/nandha-kumar-hajari?tab=repositories)
 
