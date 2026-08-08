@@ -1,30 +1,31 @@
-<h1 align="center">Hi 👋, I'm Nandha Kumar</h1>
-<h3 align="center">A Cross Platform App Developer</h3>
+<h1 align="center">Hi, I'm Nandha 👋</h1>
+<p align="center">Building tooling for AI-assisted development · TypeScript, Python, React Native · Hyderabad</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandha-kumar-hajari&label=Profile%20views&color=0e75b6&style=flat" alt="nandha-kumar-hajari" /> </p>
+I spend most of my time on the layer between AI coding tools and the developers using them —
+MCP servers, agent skills, environment configuration, and the workflows that make
+Claude Code / Cursor / Codex actually usable day to day instead of fighting them.
 
-- 🔭 I’m currently working on **React Native**
+## 🔧 Main project
 
-- 🌱 I’m currently learning **GCP**
+**[dxai](https://github.com/nandha-kumar-hajari/dxai)** — CLI that sets up AI coding
+environments (Claude Code, Cursor, Codex, Antigravity, and others) with one reproducible
+command instead of manual per-developer configuration.
 
-- 👨‍💻 All of my projects are available at [https://github.com/nandha-kumar-hajari?tab=repositories](https://github.com/nandha-kumar-hajari?tab=repositories)
+Started it because every team I saw was solving the same setup problem by hand, per
+developer, slightly differently, badly. Demoed at the Codex Hyderabad Meetup.
+Issues and PRs welcome.
 
-- 💬 Ask me about **React Native**
+## 🛠️ Other things I've built
 
-- 📫 How to reach me **nandhahajari@gmail.com**
+- **Roll** — cycling events platform, Next.js + FastAPI on GCP, 1,000+ active users
+- **GV Discover** — Gemini-powered multimodal app for blind and visually impaired users; fully non-visual, gesture UI + screen reader + TalkBack
+- **Zenta Pulse** — GCP cloud-management platform; my favorite part is *Killswitch*, a hard billing-disconnect safeguard
+- A handful of shipped React Native apps: e-commerce, telehealth with in-app video consultations, OTA updates via CodePush
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/183BlBtmKUFVNQuJ39gNHJ5ibjCS6e5bX/view?usp=sharing](https://drive.google.com/file/d/183BlBtmKUFVNQuJ39gNHJ5ibjCS6e5bX/view?usp=sharing)
+## 🧰 Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nandha-kumar-hajari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandha-kumar-hajari" height="30" width="40" /></a>
-</p>
+TypeScript · Python · React Native · Next.js · Flutter · FastAPI · GraphQL · GCP
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 📫 Elsewhere
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandha-kumar-hajari&show_icons=true&locale=en&layout=compact" alt="nandha-kumar-hajari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandha-kumar-hajari&show_icons=true&locale=en" alt="nandha-kumar-hajari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandha-kumar-hajari&" alt="nandha-kumar-hajari" /></p>
+[LinkedIn](https://linkedin.com/in/nandha-kumar-hajari) · nandhunaren808@gmail.com
